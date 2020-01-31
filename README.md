@@ -1,4 +1,4 @@
-# Vital-Signs-
+# Vital-Signs
 
 Vital sign assessment includes heart rate, respiratory rate, blood pressure, oxygen saturation, respiratory effort, capillary refill time and temperature. Vital signs are often considered to be the baseline indicators of a patient’s health status. Vital signs should be taken manually, not copied from the monitor display with the exception of oxygen saturation reading and automatic blood pressure (BP) readings. See considerations under blood pressure section below. Vital signs are never stagnant, and are affected by a variety of internal and external factors, including many disease conditions, anxiety, pain, exercise, and even circadian and diurnal rhythms. 
 
